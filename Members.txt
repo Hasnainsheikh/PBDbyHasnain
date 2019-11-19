@@ -1,3 +1,6 @@
+project :
+    image detection and clasification
+
 Fahad Bin Shahid
 L1F17BSCS0512
 Hasnain Ali
