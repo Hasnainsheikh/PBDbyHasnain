@@ -1,0 +1,14 @@
+Project :
+        Detecting Pneumonia in Chest X-Rays
+
+
+Project Description:
+
+          Physicians often use chest X-rays to quickly and cheaply diagnose disease associated with the area.
+However, it is much more difficult to make clinical diagnoses with chest X-rays than with other imaging modalities
+such as CT or MRI. With computer-aided diagnosis, physicians can make chest X-ray diagnoses more quickly and accurately.
+Pneumonia is often diagnosed with chest X-Rays and kills around 50,000 people each year. 
+With computeraided diagnosis of pneumonia specifically, physicians can more accurately and efficiently diagnose the disease.
+In this project, we hope to train a model using the dataset described below to help physicians in making diagnoses
+of pneumonia in chest X-Rays.Our problem is thus a binary classification where the inputs are chest X-ray images 
+and the output is one of two classes: pneumonia or non-pneumonia.
