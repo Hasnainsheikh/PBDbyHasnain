@@ -31,3 +31,6 @@ Images can be classified as "No findings" or one or more disease classes:
     • Nodule Mass 
     • Hernia 
 but in this project we are only concerned with detecting pneumonia using the data set that is compiled by NIH.
+
+DataSet Link:
+        https://www.kaggle.com/nih-chest-xrays/data/data
