@@ -12,3 +12,22 @@ With computeraided diagnosis of pneumonia specifically, physicians can more accu
 In this project, we hope to train a model using the dataset described below to help physicians in making diagnoses
 of pneumonia in chest X-Rays.Our problem is thus a binary classification where the inputs are chest X-ray images 
 and the output is one of two classes: pneumonia or non-pneumonia.
+
+Dataset Description :
+We use a data set compiled by the NIH which contains112,120 chest X-ray images from 30,805 unique patients. 
+The data set is available from Kaggle. There are 15 classes (14 diseases, and one for "No findings"). 
+Images can be classified as "No findings" or one or more disease classes:
+    • Atelectasis 
+    • Consolidation 
+    • Infiltration 
+    • Pneumothorax 
+    • Edema 
+    • Emphysema 
+    • Fibrosis 
+    • Effusion 
+    • Pneumonia 
+    • Pleural_thickening 
+    • Cardiomegaly 
+    • Nodule Mass 
+    • Hernia 
+but in this project we are only concerned with detecting pneumonia using the data set that is compiled by NIH.
